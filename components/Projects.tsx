@@ -5,15 +5,11 @@ import { useState } from "react";
 import { X } from "lucide-react";
 
 const reviewImages = [
-  "/reviews/review_1.jpeg",
-  "/reviews/review_2.jpeg",
-  "/reviews/review_3.jpeg",
-  "/reviews/review_4.jpeg",
-  "/reviews/review_5.jpeg",
-  "/reviews/review_6.jpeg",
-  "/reviews/review_7.jpeg",
-  "/reviews/review_8.jpeg",
-  "/reviews/review_9.jpeg",
+  "/reviews/new_review_1.jpeg",
+  "/reviews/new_review_2.jpeg",
+  "/reviews/new_review_3.jpeg",
+  "/reviews/new_review_4.jpeg",
+  "/reviews/new_review_5.jpeg",
 ];
 
 export default function Projects() {

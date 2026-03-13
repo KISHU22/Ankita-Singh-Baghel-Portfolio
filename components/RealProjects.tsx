@@ -30,6 +30,33 @@ const projects = [
     description: "Strategic search optimization to improve local visibility and patient acquisition in healthcare.",
     color: "from-purple-500/20 to-pink-500/20",
     iconColor: "text-purple-400"
+  },
+  {
+    id: 4,
+    title: "AMG24x7 Blog",
+    url: "https://blog.amg24x7.com/",
+    role: "Content Writer",
+    description: "Authored engaging and SEO-optimized content to drive inbound traffic and reader engagement.",
+    color: "from-green-500/20 to-teal-500/20",
+    iconColor: "text-green-400"
+  },
+  {
+    id: 5,
+    title: "Youth Ki Awaaz",
+    url: "https://www.youthkiawaaz.com/author/pr24into7gmail-com/",
+    role: "Contributing Author",
+    description: "Published articles and content on prominent platforms to build authority and reach broader audiences.",
+    color: "from-yellow-500/20 to-orange-500/20",
+    iconColor: "text-yellow-400"
+  },
+  {
+    id: 6,
+    title: "Bigul",
+    url: "https://bigul.co/",
+    role: "SEO & SMM",
+    description: "Managed end-to-end SEO and Social Media Marketing strategies to boost brand visibility, online engagement, and audience growth.",
+    color: "from-indigo-500/20 to-cyan-500/20",
+    iconColor: "text-indigo-400"
   }
 ];
 
